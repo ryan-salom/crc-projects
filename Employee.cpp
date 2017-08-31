@@ -1,8 +1,3 @@
-//Ryan Jonathan Salom CISP 400 AD1
-//header file
-
-
-
 #include <iostream>
 #include "Employee.h"
 using namespace std;
